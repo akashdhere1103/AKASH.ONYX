@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akash-dhere-cv-portfolio.briskmoat5.chatgpt.site/sitemap.xml
